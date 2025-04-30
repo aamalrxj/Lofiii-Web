@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Lofiii-Web/static/css/main.3ec70961.css",
-    "main.js": "/Lofiii-Web/static/js/main.b3cc6ed1.js",
+    "main.js": "/Lofiii-Web/static/js/main.04de1cea.js",
     "static/js/453.99a25d06.chunk.js": "/Lofiii-Web/static/js/453.99a25d06.chunk.js",
     "index.html": "/Lofiii-Web/index.html",
     "main.3ec70961.css.map": "/Lofiii-Web/static/css/main.3ec70961.css.map",
-    "main.b3cc6ed1.js.map": "/Lofiii-Web/static/js/main.b3cc6ed1.js.map",
+    "main.04de1cea.js.map": "/Lofiii-Web/static/js/main.04de1cea.js.map",
     "453.99a25d06.chunk.js.map": "/Lofiii-Web/static/js/453.99a25d06.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ec70961.css",
-    "static/js/main.b3cc6ed1.js"
+    "static/js/main.04de1cea.js"
   ]
 }
